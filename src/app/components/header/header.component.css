@@ -1,0 +1,11 @@
+li:hover,.home:hover {
+    background-color: blueviolet
+  }
+
+ li{
+    display: inline-flex;
+  }
+
+  i:hover,a:hover {
+    background-color: brown
+  }
